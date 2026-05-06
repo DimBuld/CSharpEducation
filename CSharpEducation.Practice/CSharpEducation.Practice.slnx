@@ -24,10 +24,6 @@
       <BuildType Solution="CheckIn|*" Project="Release" />
     </Project>
   </Folder>
-  <Folder Name="/Practice1/Task1.CSharpBase/">
-    <Project Path="Practice1\Task.CSharpBase/Task1A.csproj" />
-    <Project Path="Practice1\Task.CSharpBase\Task1B/Task1B.csproj" />
-  </Folder>
   <Folder Name="/Practice2/">
     <Project Path="Practice2/Task01a/Task01a.csproj" Id="70c0714f-5368-4f8b-8450-6e1aaf86b515">
       <BuildType Solution="CheckIn|*" Project="Release" />
@@ -164,4 +160,7 @@
       <BuildType Solution="CheckIn|*" Project="Release" />
     </Project>
   </Folder>
+  <Project Path="Task05/Task05.csproj">
+    <BuildType Solution="CheckIn|*" Project="Release" />
+  </Project>
 </Solution>

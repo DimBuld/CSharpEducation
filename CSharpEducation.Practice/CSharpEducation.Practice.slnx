@@ -151,6 +151,9 @@
     </Project>
   </Folder>
   <Folder Name="/Practice3/">
+    <Project Path="../../../source/repos/CSharpEducation.Practice/Practice3/CsharpEducation.Practice/Task05/Task05.csproj">
+      <BuildType Solution="CheckIn|*" Project="Release" />
+    </Project>
     <Project Path="Pratice3/Task01/Task01.csproj" Id="5ad536ac-ec7e-4892-8ad6-8e38c6a16306">
       <BuildType Solution="CheckIn|*" Project="Release" />
     </Project>

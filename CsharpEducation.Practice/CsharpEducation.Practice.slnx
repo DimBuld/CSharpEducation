@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Practice3/">
+    <Project Path="Task05/Task05.csproj" />
+    <Project Path="vb/vb.csproj" Id="e3fcff60-a180-4239-985f-cb4258647835" />
+  </Folder>
+  <Project Path="tr/tr.csproj" Id="d6ae3e46-12ee-4c7e-a744-df52b1da5fdd" />
+</Solution>
